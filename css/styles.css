@@ -24,7 +24,6 @@ body {
   padding-right: 0;
   margin-left: 156px;
   margin-right: 156px;
-  display: flex;
 }
 
 .logo {
@@ -115,6 +114,10 @@ ul {
   list-style-type: none;
   margin: 0;
   padding-left: 0;
+}
+
+.head-menu {
+  display: flex;
 }
 
 .nav-link {
