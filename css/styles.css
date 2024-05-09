@@ -24,6 +24,7 @@ body {
   padding-right: 0;
   margin-left: 156px;
   margin-right: 156px;
+  display: flex;
 }
 
 .logo {
