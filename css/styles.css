@@ -156,6 +156,27 @@ ul {
   color: #434455;
 }
 
+.main-section-two {
+  padding: 120px 0;
+}
+
+.main-section-two .section-title {
+  display: none;
+}
+
+.section-heading {
+  margin-bottom: 8px;
+}
+
+.advantages-list {
+  display: flex;
+  gap: 24px;
+}
+
+.advantage {
+  width: calc((100% - 72px) / 4);
+}
+
 .main-section-three {
   background: #f4f4fd;
 }
