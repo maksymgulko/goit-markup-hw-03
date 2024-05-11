@@ -19,11 +19,8 @@ body {
 }
 
 .container {
-  max-width: 100%;
-  padding-left: 0;
-  padding-right: 0;
-  margin-left: 156px;
-  margin-right: 156px;
+  width: 1158px;
+  margin: auto;
 }
 
 .logo {
