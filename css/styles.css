@@ -20,6 +20,7 @@ body {
 
 .container {
   width: 1158px;
+  padding: 0 15px;
   margin: auto;
 }
 
@@ -121,7 +122,6 @@ header {
 .head-menu {
   display: flex;
   justify-content: space-between;
-
   padding: 24px 0;
 }
 
