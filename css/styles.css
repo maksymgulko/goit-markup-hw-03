@@ -164,8 +164,10 @@ ul {
   display: none;
 }
 
-.section-heading {
-  margin-bottom: 8px;
+.visually-hidden {
+  visibility: hidden;
+  pointer-events: none;
+  position: absolute;
 }
 
 .advantages-list {
