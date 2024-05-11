@@ -34,6 +34,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .studio-header {
@@ -116,22 +117,23 @@ ul {
   padding-left: 0;
 }
 
+header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
 .head-menu {
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px solid #e7e9fc;
+
+  padding: 24px 0;
 }
 
 .nav-menu,
 .nav-links,
-.contacts {
+.contacts-list {
   display: flex;
   align-items: center;
   gap: 40px;
-}
-
-.contacts-list {
-  display: flex;
 }
 
 .nav-link {
