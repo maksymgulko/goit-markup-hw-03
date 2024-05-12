@@ -123,6 +123,7 @@ ul {
 
 .header-wrap {
   border-bottom: 1px solid #e7e9fc;
+  padding: 0 15px;
 }
 
 .head-menu {
@@ -277,6 +278,7 @@ footer,
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
 }
 
 .studio-footer {
