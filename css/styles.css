@@ -263,6 +263,15 @@ footer,
   border-top: none;
 }
 
+.footer-wrap {
+  padding: 100px;
+}
+
+.footer-wrap .logo {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
 .footer-text {
   font-size: 16px;
   line-height: 1.5;
