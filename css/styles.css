@@ -123,13 +123,18 @@ ul {
 
 .header-wrap {
   border-bottom: 1px solid #e7e9fc;
-  padding: 0 15px;
+}
+
+.header-wrap a {
+  display: block;
+  align-items: center;
+  padding: 24px 0;
 }
 
 .head-menu {
   display: flex;
   justify-content: space-between;
-  padding: 24px 0;
+  /* padding: 24px 0; */
 }
 
 .nav-menu,
