@@ -103,7 +103,7 @@ button {
   letter-spacing: 0.04em;
   color: #fff;
   display: block;
-  margin: 48px auto;
+  margin: 48px auto 0;
   min-width: 169px;
   height: 56px;
   border: none;
